@@ -1,0 +1,27 @@
+@keyframes upDown{
+    0%{top:95%;}
+    50%{top:96%;}
+    100%{top:95%;}
+
+}
+
+@keyframes logoDown{
+    0%{top:-50%;}
+    100%{top:50%;}
+
+}
+
+
+@keyframes logoRight{
+    0%{right:25px;}
+    50%{right:30px;}
+    100%{right:25px;}
+
+}
+
+@keyframes arrowAboutMe{
+    0%{left:25px;}
+    50%{left:30px;}
+    100%{left:25px;}
+
+}
